@@ -14,8 +14,8 @@ Folders for each section:
 - More_Stuff
 
 This repository also contains JS100 - JavaScript Basics exercises in its own folder:
-- Reading_Doc_1
-- Reading_Doc_2
+- Reading_Doc_1**
+- Reading_Doc_2**
 - Loops
 - Conditionals
 - Functions_1
@@ -24,3 +24,5 @@ This repository also contains JS100 - JavaScript Basics exercises in its own fol
 - Arrays
 - Functions_2
 - Objects
+
+Completed exercises are notated with a double asterisk (**) at the end.
