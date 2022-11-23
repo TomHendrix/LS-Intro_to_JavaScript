@@ -16,7 +16,7 @@ Folders for each section:
 This repository also contains JS100 - JavaScript Basics exercises in its own folder:
 - Reading_Doc_1**
 - Reading_Doc_2**
-- Loops
+- Loops**
 - Conditionals
 - Functions_1
 - Variable_Scope
